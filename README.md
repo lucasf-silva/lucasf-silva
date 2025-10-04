@@ -4,9 +4,9 @@
 🚀 Trabalho com **NestJS**, **React**, **TypeScript**, e **MySQL**.
 
 ## 🧠 Tecnologias
-- Backend: NestJS, Node.js, Prisma, TypeORM  
+- Backend: NestJS, Node.js, .NET, C#,Prisma, TypeORM  
 - Frontend: React, Next.js, TailwindCSS  
-- Banco de Dados: MySQL, SQLite  
+- Banco de Dados: MySQL, SQLite, PostgreSQL, SQLServer  
 - Outras: Docker, RabbitMQ, AWS
 
 ## 📊 Estatísticas do GitHub
