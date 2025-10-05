@@ -54,9 +54,9 @@ Tenho foco em *desempenho, escalabilidade e automação*, sempre buscando entreg
 ---
 
 ## 📫 Onde me encontrar
-🌐 [LinkedIn](https://linkedin.com/in/)  
-📧 lucas.silva@email.com (adicione seu e-mail)  
-🐙 [GitHub](https://github.com/SeuUsuario)
+🌐 [LinkedIn](https://www.linkedin.com/in/lucas-farias-85a07b117/)  
+📧 [EMail] (lucasdefs@outlook.com)  
+🐙 [GitHub](https://github.com/lucasf-silva)
 
 ---
 
